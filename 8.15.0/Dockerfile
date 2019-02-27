@@ -2,7 +2,7 @@ FROM amazonlinux:2
 LABEL maintainer="rajesh.jonnalagadda@phenompeople.com" \
       version="8.15.0"
 RUN yum install -q -y  wget shadow-utils tar gzip xz fontconfig&& \
-    useradd -d  /opt/phenom phenom && \
+    useradd -d  /opt/phenom phenom -u 1004 && \
     mkdir -p /opt/phenom/scripts
 ARG NODE_VERSION=v8.15.0
 ENV NODE_VERSION=${NODE_VERSION}

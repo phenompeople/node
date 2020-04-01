@@ -14,9 +14,10 @@ Dockerfiles for building Amazon Linux V2 node application.
 
 ### phenompeople/node
 
-* **`latest`	([10.15.0/Dockerfile](https://bitbucket.org/phenompeople/node/src/master/10.15.0/Dockerfile))**
-* **`10.15.0`	([10.15.0/Dockerfile](https://bitbucket.org/phenompeople/node/src/master/10.15.0/Dockerfile))**
-* **`8.15.0`	([8.15.0/Dockerfile](https://bitbucket.org/phenompeople/node/src/master/8.15.0/Dockerfile))**
+* **`latest`	([12.13.0/Dockerfile](https://github.com/phenompeople/node/tree/master/12.13.0/Dockerfile))**
+* **`12.13.0`	([12.13.0/Dockerfile](https://github.com/phenompeople/node/tree/master/12.13.0/Dockerfile))**
+* **`10.15.0`	([10.15.0/Dockerfile](https://github.com/phenompeople/node/tree/master/10.15.0/Dockerfile))**
+* **`8.15.0`	([8.15.0/Dockerfile](https://github.com/phenompeople/node/tree/master/8.15.0/Dockerfile))**
 
 #### Pre-Requisites
 
@@ -33,6 +34,7 @@ Above command runs node container its respective configuration mapped
 ## Maintainers
 
 * Rajesh Jonnalagadda (<rajesh.jonnalagadda@phenompeople.com>)
+* Harshavardhan Baddam (<harshavardhan.baddam@phenompeople.com>)
 
 ## License and Authors
 

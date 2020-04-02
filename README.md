@@ -14,8 +14,8 @@ Dockerfiles for building Amazon Linux V2 node application.
 
 ### phenompeople/node
 
-* **`latest`	([12.13.0/Dockerfile](https://github.com/phenompeople/node/tree/master/12.13.0/Dockerfile))**
-* **`12.13.0`	([12.13.0/Dockerfile](https://github.com/phenompeople/node/tree/master/12.13.0/Dockerfile))**
+* **`latest`	([12.16.1/Dockerfile](https://github.com/phenompeople/node/tree/master/12.16.1/Dockerfile))**
+* **`12.16.1`	([12.16.1/Dockerfile](https://github.com/phenompeople/node/tree/master/12.16.1/Dockerfile))**
 * **`10.15.0`	([10.15.0/Dockerfile](https://github.com/phenompeople/node/tree/master/10.15.0/Dockerfile))**
 * **`8.15.0`	([8.15.0/Dockerfile](https://github.com/phenompeople/node/tree/master/8.15.0/Dockerfile))**
 
